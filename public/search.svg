@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.72 19.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5b5b5b;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-1" cx="8.24" cy="8.24" r="7.74"/>
+    <line class="cls-1" x1="13.72" y1="13.72" x2="19.37" y2="19.37"/>
+  </g>
+</svg>
