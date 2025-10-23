@@ -11,18 +11,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. Clone this repository:
    `bash
+   git clone https://github.com/sinkandika/sgt-frontend-test
 
-git clone https://github.com/sinkandika/sgt-frontend-test
-cd sgt frontend test
+   `bash
+   cd sgt-frontend-test
 
 2. Install dependencies:
    `bash
-
-npm install
+   npm install
 
 3. Run the Project:
    `bash
+   npm run dev
 
-npm run dev
-
-Open your browser at http://localhost:3000
+4. Open your browser at http://localhost:3000
